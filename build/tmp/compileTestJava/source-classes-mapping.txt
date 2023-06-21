@@ -1,0 +1,2 @@
+mygradleproject/AppTest.java
+ mygradleproject.AppTest
